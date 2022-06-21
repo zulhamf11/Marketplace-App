@@ -19,7 +19,7 @@ if (isset($_POST["login_user_with_product"])) {
 <html>
 	<head>
 		<meta charset="UTF-8">
-		<title>LOGO</title>
+		<title>Login</title>
 		<link rel="stylesheet" href="css/bootstraps.css"/>
 		<script src="js/jquery2.js"></script>
 		<script src="js/bootstrap.min.js"></script>
@@ -34,7 +34,7 @@ if (isset($_POST["login_user_with_product"])) {
 	<div class="navbar navbar-inverse navbar-fixed-top">
 		<div class="container-fluid">	
 			<div class="navbar-header">
-				<a href="#" class="navbar-brand">LOGO</a>
+				<li><a href="index.php" class="navbar-brand">WEB MALL</a></li>
 			</div>
 			<ul class="nav navbar-nav">
 				<li><a href="index.php"><span class="glyphicon glyphicon-home"></span>Home</a></li>

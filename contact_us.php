@@ -6,9 +6,9 @@
 
     <head>
 		<meta charset="UTF-8">
-		<title>Hofladen</title>
+		<title>Contact Us</title>
 		<link rel = "icon" href = "product_images/logo.png">
-		<link rel="stylesheet" href="css/contact.css"/>
+		<link rel="stylesheet" href="css/contacts.css"/>
         <link rel="stylesheet" href="css/bootstraps.css"/>
 		<script src="js/jquery2.js"></script>
 		<script src="js/bootstrap.min.js"></script>

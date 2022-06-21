@@ -103,7 +103,7 @@
         		</div>
         		<div class="col-12">
         			<div class="form-group">
-		        		<label>Product Keywords <small>(eg: pakan, obat, etc.)</small></label>
+		        		<label>Product Keywords <small>(eg: hp, electronic, etc.)</small></label>
 		        		<input type="text" name="product_keywords" class="form-control" placeholder="Enter Product Keywords">
 		        	</div>
         		</div>

@@ -41,6 +41,8 @@ input[type=submit]:hover {
 /* Add a background color and some padding around the form */
 
 .contact_container {
-    border-radius: 5px;
-    padding: 20px;
+    width: 35%;
+    margin: 2.5em auto;
+    background: #fff;
+    padding: 2.5em;
 }

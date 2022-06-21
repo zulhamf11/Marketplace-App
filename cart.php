@@ -7,7 +7,7 @@ require "config/constants.php";
 <html>
 	<head>
 		<meta charset="UTF-8">
-		<title>HOFLADEN</title>
+		<title>Cart</title>
 		<link rel="stylesheet" href="css/bootstraps.css"/>
 		<script src="js/jquery2.js"></script>
 		<script src="js/bootstrap.min.js"></script>
@@ -27,7 +27,7 @@ require "config/constants.php";
 					<span class="icon-bar"></span>
 					<span class="icon-bar"></span>
 				</button>
-				<a href="#" class="navbar-brand">HOFLADEN</a>
+				<a href="#" class="navbar-brand">WEB MALL</a>
 			</div>
 		<div class="collapse navbar-collapse" id="collapse">
 			<ul class="nav navbar-nav">
